@@ -1,0 +1,23 @@
+{
+  "name": "text-progressbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocoabox/text-progressbar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cocoabox/text-progressbar/issues"
+  },
+  "homepage": "https://github.com/cocoabox/text-progressbar#readme"
+}
